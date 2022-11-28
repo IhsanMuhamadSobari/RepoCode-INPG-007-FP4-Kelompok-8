@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=BIZ+UDPMincho&family=Bubblegum+Sans&family=DynaPuff&family=Luckiest+Guy&family=Nerko+One&family=Secular+One&display=swap');
+
+.text {
+    text-align: center;
+    margin: 5%;
+    font-family: 'Alfa Slab One', cursive;
+    color: white;
+}
+
+.bg {
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
+    border-radius: 10px;
+}
+
+.totalDeathsDiv {
+    text-align: center;
+    font-family: sans-serif;
+}
