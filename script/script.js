@@ -78,7 +78,7 @@ function hiddenLoading() {
 const options = {
   method: "GET",
   headers: {
-    "X-RapidAPI-Key": "0d799448b2msh3b92a6186580cd1p1ef143jsn015ce46557cb",
+    "X-RapidAPI-Key": "",
     "X-RapidAPI-Host": "weatherapi-com.p.rapidapi.com",
   },
 };
